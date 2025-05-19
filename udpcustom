@@ -1,22 +1,18 @@
 [
   {
-    "label": "Server 1",
-    "url": "L3DeNQY0LPMx630aQgj9ZE4mQAs8viQx/Ukc+BROTAKi9zUjEm4owhFHKmMSbjVJHPMLPChgNiEf3xhjRhYxZT0/5D78RlxULAtX6WDbNkglA/3f9Ck+ZCIlDVMc7yJRJUenCgw5ZxAtvgz8NpYCFu4fVxY="
+    "label": "UDP CUSTOM#1",
+    "url": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOXVhbGhXc21TaXJ4NzZlRTNXV2xOeHZmMEhxZjdDQW8vdmlldz91c3A9ZHJpdmVfbGluaw=="
   },
   {
-    "label": "Server 2",
-    "url": "L3DeNQY0LPMx630aQgj9ZE4mQAs8viQx/Ukc+BROTAKi9zUjEm4owhFHKmMeIfVZKEXwSh37WN4g3wAEOAYBATedLRj+HFjzHk7wP1jJODoTaQEC3gU+ZCIlDVMc7yJRJUenCgw5ZxAtvgz8NpYCFu4fVxY="
+    "label": "UDP CUSTOM#2",
+    "url": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYWsyanYyWmFZRHJPZFVsY2dWb0ZQQTVpZjZJeVNobXovdmlldz91c3A9ZHJpdmVfbGluaw=="
   },
   {
-    "label": "Server 3",
-    "url": "L3DeNQY0LPMx630aQgj9ZE4mQAs8viQx/Ukc+BROTAKi9zUjEm4owhFHKmMSbO3sJEYO4yJEVNYS3whjUwcFQSo/+Bf7HP1QGk1K81/ZLkIT+hsD11szZCIlDVMc7yJRJUenCgw5ZxAtvgz8NpYCFu4fVxY="
+    "label": "UDP CUSTOM#3",
+    "url": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLXBBMWpjM2Ffa1BBTWdQdXhRdXpGMWphQ0NhMUowWUgvdmlldz91c3A9ZHJpdmVfbGluaw=="
   },
   {
-    "label": "Server 4",
-    "url": "L3DeNQY0LPMx630aQgj9ZE4mQAs8viQx/Ukc+BROTAKi9zUjEm4owhFHKmMIFuEQE/D0/BVgctUg6xVkRPLjQTwsDmfzHA/yHkIJLYbLZfkSUx4c6FUrZCIlDVMc7yJRJUenCgw5ZxAtvgz8NpYCFu4fVxY="
-  },
-  {
-    "label": "Server 5",
-    "url": "L3DeNQY0LPMx630aQgj9ZE4mQAs8viQx/Ukc+BROTAKi9zUjEm4owhFHKmMwIv1HGQMO5B1mLt8fO14jQS4tUjqnAD3/Gv1RH9f6QlguSPoZBB7d3QVcZCIlDVMc7yJRJUenCgw5ZxAtvgz8NpYCFu4fVxY="
+    "label": "UDP CUSTOM#4",
+    "url": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYmV0WVBvTUpjLV9HaElFb2Q4UkdvVXdYUTdMalBJbDMvdmlldz91c3A9ZHJpdmVfbGluaw=="
   }
 ]
